@@ -1,17 +1,9 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/uploads/k2e-logo.png",
   "items": [
     {
       "link": "/",
       "text": "Home"
-    },
-    {
-      "link": "/feature/",
-      "text": "Feature"
-    },
-    {
-      "link": "/pricing/",
-      "text": "Pricing"
     },
     {
       "link": "/about/",
